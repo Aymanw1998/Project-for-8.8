@@ -1,0 +1,21 @@
+#pragma once
+#include <iostream>
+#include <mysql.h>
+#include <string>
+using namespace std;
+void commandList();
+void command1();
+void command2();
+void command3();
+void command4();
+void command5();
+void command6();
+void command7();
+void command8();
+void command9();
+void command10();
+void command11();
+void command12();
+void command13();
+void command14();
+void command15();
